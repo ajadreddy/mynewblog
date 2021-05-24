@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(200, 234, 240);
+}
+.div1{
+    font-size: 50px;
+    margin: 30px;
+}
+.div2{
+    
+    font-size: 25px;
+    margin: 30px;  
+}
+.div3{
+    border-radius: 50%;
+    opacity: 0.8;
+    padding-top: 25px;
+}
+.div4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 10%;
+}
+.div5{
+    display: flex;
+}
+.div6{
+    font-size: 20px;
+    margin-left: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.div7{
+    font-size: 20px;
+    margin-left: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.table,th,td{
+    font-size: 20px;
+    font-family: sans-serif;
+    border: 0.5px solid black;
+    border-collapse: collapse;
+    width: 500px;
+    text-align: center;
+}
+.div9{
+    font-size: 20px;
+    margin-left: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
